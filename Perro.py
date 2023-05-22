@@ -7,7 +7,7 @@ class Perro:
 
     def __init__(self):
         """
-        Constructor init Perroo
+        Constructor init dog.
         """
         self.__ladra = 'Guau'
 
